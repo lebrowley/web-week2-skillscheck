@@ -15,10 +15,12 @@ header {
     background-color: gray;
     color: white;
     padding: 0px 40px; 
+    width: 100vw;
 }
 
 h1 {
     text-transform: uppercase;
+    font-size: 40px;
 }
 
 .nav {
@@ -27,6 +29,7 @@ h1 {
     justify-content: space-between;
     align-items: stretch;
     align-content: stretch;
+    margin-right: 100px;
 }
 
 h3 {
