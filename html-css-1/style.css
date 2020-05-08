@@ -72,16 +72,19 @@ h3 {
 }
 
 .boxGr {
-    height: 175px;
-    width: 175px;
+    height: 300px;
+    width: 300px;
     background-color: rgb(181, 253, 230);
     border-radius: 25px;
+    margin-bottom: 50px;
 }
 
 .boxOr {
-    height: 150px;
-    width: 350px;
+    height: 300px;
+    width: 500px;
     background-color: rgb(241, 188, 89);
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .text-image {
@@ -90,7 +93,7 @@ h3 {
     justify-content: space-between;
     align-items: stretch;
     align-content: stretch; 
-    margin: 30px 30px
+    margin: 325px 150px 20px; 
     
 }
 
@@ -98,13 +101,14 @@ h3 {
     height: 100px;
     width: 300px;
     margin: auto 0;
-    font-size: xx-small;
-    padding-left: 50px;
+    font-size: x-small;
+    padding-left: 150px;
+    
 }
 
 img {
-    height: 100px;
-    width: 200px;
+    height: 175px;
+    width: 300px;
     padding-right: 100px;
 }
 
